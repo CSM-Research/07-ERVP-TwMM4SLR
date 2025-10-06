@@ -1,0 +1,171 @@
+============= Grounded Theory Literature Review ======================
+
+Scope: find any key practices for the systematic literature review process. Those practices should be in the format of guideline, threat to validity mitigation action, lesson learned.
+
+Questions: Which are the key practices for systematic literature review process?
+
+
+Inclusion/exclusion criteria: 
+
+	IC1: The study presents key practices, best practices, lessons learned or any recommendation to improve SLR process
+	IC2: The study is in software engineering area
+
+
+	EC1: the study is about SLR but does not include any practice/guideline/lesson learned for the process
+	EC2: the study is not in software engineering area
+	EC3: the study is not in english
+	EC4: is not a primary or secondary study (workshop publicity, short papers, etc.)
+	EC5: the study is an older version than other already considered
+
+
+
+Search Sources:
+
+	- IEEE
+	- Scopus
+	- Science Direct
+	- ACM
+
+
+Search String:
+
+	V0: 
+
+	(
+		("systematic literature review" OR "systematic review" OR "SLR" ) 
+		AND 
+		("guideline" OR "best practice" OR "recommendation" OR "mitigation action" OR "lesson learned")
+		AND 
+		("software engineering")
+	)
+
+	V1: 
+
+	(
+		("Secondary Studies" OR "systematic literature review" OR "systematic review" OR "SLR" ) 
+		AND 
+		("guideline" OR "best practice" OR "threats to validity" OR "lesson learned")
+		AND 
+		("software engineering")
+	)
+
+
+----------------------
+SEARCH STRING INSTANCES
+----------------------
+
+	Scopus: 354
+
+		TITLE-ABS-KEY ( "Secondary Studies" OR "systematic literature review" OR "systematic review" OR "SLR" ) AND TITLE-ABS-KEY ( "guideline*" OR "best practice" OR "threats to validity" OR "lesson learned" ) AND TITLE-ABS-KEY ( "software engineering" )
+
+	IEEE: 6 
+
+		(
+		  ("Publication Title":"secondary" OR "Publication Title":"systematic literature review" OR "Publication Title":"systematic review" OR "Publication Title":"SLR"
+		   OR "Abstract":"secondary" OR "Abstract":"systematic literature review" OR "Abstract":"systematic review" OR "Abstract":"SLR"
+		   OR "Author Keywords":"secondary" OR "Author Keywords":"systematic literature review" OR "Author Keywords":"systematic review" OR "Author Keywords":"SLR")
+		AND
+		  ("Publication Title":"guideline" OR "Publication Title":"best practice" OR "Publication Title":"mitigation action" OR "Publication Title":"lesson learned"
+		   OR "Abstract":"guideline" OR "Abstract":"best practice" OR "Abstract":"mitigation action" OR "Abstract":"lesson learned"
+		   OR "Author Keywords":"guideline" OR "Author Keywords":"best practice" OR "Author Keywords":"mitigation action" OR "Author Keywords":"lesson learned")
+		AND
+		  ("Publication Title":"software engineering" OR "Abstract":"software engineering" OR "Author Keywords":"software engineering")
+		)
+
+
+	Science Direct: 28
+
+		("secondary studies" OR systematic literature review" OR "systematic review" OR "SLR")
+		AND
+		("guideline" OR "best practice" OR "threats to validity" OR "lesson learned")
+		AND
+		("software engineering")
+
+	ACM: 9
+
+		((title:"systematic literature review" OR title:"systematic review" OR title:"SLR"
+		OR abstract:"systematic literature review" OR abstract:"systematic review" OR abstract:"SLR"
+		OR Keyword:"systematic literature review" OR Keyword:"systematic review" OR Keyword:"SLR")
+		AND
+		(title:"guideline" OR title:"best practice" OR title:"mitigation action" OR title:"lesson learned"
+ 		OR abstract:"guideline" OR abstract:"best practice" OR abstract:"mitigation action" OR abstract:"lesson learned"
+		OR Keyword:"guideline" OR Keyword:"best practice" OR Keyword:"mitigation action" OR Keyword:"lesson learned")
+		AND
+		(title:"software engineering" OR abstract:"software engineering" OR Keyword:"software engineering"))
+
+- Search done in 30/09/2025
+- Total: 527 studies
+
+
+Snowballing?
+
+	No.
+
+
+
+----------------------
+CONDUCTION
+----------------------
+
+
+First, we performed the deduplication and removal of obvious entries that were not papers (Proceedings announcements). 
+• 39 duplicated
+• 10 proceedings announcements
+
+The second step, was to create 4 batches of studies (with 87 studies) to perform the selection. 
+
+Results: 
+
+• 22 included - 75 excluded - 38 duplicated
+• X included - X excluded
+• X included - X excluded
+• X included - X excluded
+
+
+-----------------------------
+PROMPT for data extraction
+-----------------------------
+
+Carefully analyze the provided article and extract all exact textual quotes that describe recommendations, best practices, lessons learned, or actions to mitigate bias, and also interpret assessment criterion as a recommendation for the Systematic Literature Review (SLR) process.
+
+Requirements:
+
+
+Always return the exact literal quote (do not paraphrase).
+Do not duplicate information: if a quote appears multiple times in the paper, list it only once.
+Each quote must appear on a separate line.
+Include the page or section reference as a second field.
+Format each line as CSV: wrap each field in double quotes, separate the quote and reference with a comma.
+If no relevant quotes exist, return nothing.
+
+
+Do not include extra text or explanations — output only the lines.
+
+Output in a table with two columns: text-passage, code, dimension
+
+the text-passage should be the raw text, 
+the code should be a 1-4 words code that synthezises the text-passage
+the dimension should be classified in: Coverage, Efficiency, Knowledge management, Validation & Reliability, Documentation & transparency, Tool Support, Collaboration & communication, Availability &
+Reproducibility
+
+-----------------------------
+PROMPT for KP generation
+-----------------------------
+
+Use the data from the file to define Key Practices (KP) for the Systematic Literature Review (SLR) process.
+
+
+The output must be a table in plain text with four columns:
+
+
+KP# → a sequential integer (1, 2, 3, …)
+Description → a concise statement that synthesizes the data into a clear Key Practice for SLR
+References → the IDs from the file that support this practice (e.g., S1, S2…)
+Instances → short examples of how to accomplish the practice
+
+
+KP# | Description | References | Instances
+1 | It is important to define a clear quality assurance process | S1, S3 | Create a quality assessment checklist; Apply inter-rater agreement checks
+
+
+Generate the full table following this structure.

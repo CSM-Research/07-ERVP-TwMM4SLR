@@ -1,0 +1,26 @@
+===== MM4SLR development protocol ======
+
+
+1) Step 1 - Grounded-Theory Literature Review (GTLR)
+
+	Motivation: Our approach is focused in the practices to make SLR process more mature. For this, we adopt a GTLR because it is iterative and responsive GT and STGT studies. A distinguishing feature of the GTLR approach is that it enables “theory-based or concept-centric yet accurate review” (Wolfswinkel et al., 2013).
+
+	Method: 
+		• Define: Establish the review protocol by setting scope, inclusion/exclusion criteria, and refining search strings; broaden sources when needed (e.g., more databases, snowballing) and keep a chronological logbook to maintain traceability.
+		• Search: Conduct searches in selected databases using the defined protocol; revisit and refine the Define step if search results require adjustments, and document all terms, sources, and results.
+		• Select: Remove duplicates, filter papers by title/abstract/full text, and apply forward/backward snowballing; iterate the process until saturation (no new relevant papers) is reached.
+
+		PS: the literature also foresee the need for analyze and present. But, for this protocol they are included in specific steps (2, 3).
+
+2) Step 2 - practices preparation & filtering
+
+	Motivation: After data collection its necessary to prepare the key practices for qualitative analysis. This step will remove any noise, duplicated or unecessary information and prepare the files for qualitative execution. This step will be executed iteratively i.e., the first batch of studies 5 studies will be processed, then when new studies are identified they will be analyzed too.
+
+3) Step 3 - qualitative analysis (open coding, comparison, memoing)
+
+	Motivation: This analysis will process the key practices and assign them into "dimensions". For this, an open-coding session will conducted creating codes (short keywords from 1 and 4 words). Next, we compare those codes and group similar ones. We also produce memoing for those codes and dimensions looking for reasoning that they will be assigned to those dimensions.
+
+
+4) Step 4 - Interviews
+	
+	Motivation: After discovering the key practices and dimensions, we achieve the frontier of the current literature. There are no clear indications about which practice shoud be assigned to each maturity level. Hence, we conduct interviews with experts asking them to classify the practices into into the correct level.

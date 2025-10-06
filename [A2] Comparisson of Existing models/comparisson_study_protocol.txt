@@ -1,0 +1,41 @@
+====== COMPARATIVE STUDY =======
+
+Quick Info: 
+
+ # Method 
+ 	Lean literature review (LLR).
+  		LLR is divided in four steps: 
+	  		1) scan for topic and shortlist, 
+	  		2) skim and select, 
+	  		3) read and analyse, and 
+	  		4) conclude and present.
+
+ # Search string
+
+ (
+	 TITLE-ABS-KEY ( "maturity model*" OR "process maturity" OR "capability model*" ) 
+	 AND 
+	 TITLE-ABS-KEY ( "systematic literature review" OR "SLR" OR "systematic review" )
+ )
+
+
+# Sources
+
+Scopus: 361
+ACM: 6
+IEEE: 99
+Science direct: 59
+
+# Criteria
+
+Inclusion
+
+	• IC1: Presents a maturity model
+	• IC2: The maturity model is in Computer Science OR Software Engineering area
+
+Exclusion
+
+	• EC1: The paper is a secondary study (SLR, SMS).
+	• EC2: The paper is not a primary study (such as event calls, short publications (below 3 pages))
+
+

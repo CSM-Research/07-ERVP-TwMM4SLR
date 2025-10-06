@@ -1,0 +1,36 @@
+[A1] O. Adelakun, IT Outsourcing Maturity Model, in: Proceedings of the Twelfth European Conference on Information Systems (ECIS), 2004, 13-21.
+[A5] F. Ahmed, L.F. Capretz, A business maturity model of software product line engineering, Inform. Syst. Front. (2010) 1-18.
+[A9] A. April, J.H. Hayes, A. Abran, R. Dumke, Software Maintenance Maturity Model (SMmm): the software maintenance process model, J. Softw. Maint. Evol.-R. 17 (2005) 197–223.
+[A16] N. Bateman, A. David, Process improvement programmes: a model for assessing sustainability, Int. J. Oper. Prod. Man. 22 (2002) 515-526.
+[A29] F. Caniato, R. Golini, D. Luzzini, S. Ronchi, Towards full integration: eProcurement implementation stages, Benchmarking: An International Journal 17 (2010) 491-515.
+[A32] P. Chinowsky, K. Molenaar, A. Realph, Learning Organizations in Construction, J. Manage. Eng. 23 (2007) 27-34.
+[A44] J.L. Dettbarn Jr., C.W. Ibbs, E.L. Murphree Jr., Capital Project Portfolio Management for Federal Real Property, J. Manage. Eng. 21 (2005) 44-53.
+[A48] I. Egan, J.M. Ritchie, P.D. Gardiner, Measuring performance change in the mechanical design process arena, P. I. Mech. Eng. B-J. Eng. 219 (2005) 851-863.
+[A50] H. Essmann, N. du Preez, An Innovation Capability Maturity Model -Development and initial application, Proc. Wrld. Acad. Sci. E. 41 (2009) 435-446.
+[A56] A.P.G. Filho, J.C.S. Andrade, M.M.de Oliveira Marinho, A safety culture maturity model for petrochemical companies in Brazil, Safety Sci. 48 (2010) 615-624.
+[A57] R. Fitterer, P. Rohner, Towards assessing the networkability of health care providers: a maturity model approach, Information Systems and E-Business Management 8 (2010) 309-333.
+[A83] P. Heck, M. Klabbers, M. van Eekelen, A software product certification model, Software Qual. J. 18 (2010) 37-55.
+[A85] D. Hillson, Assessing organisational project management capability, Journal of Facilities Management 2 (2003) 298-311.
+[A90] P.J. Hsieh, B. Lin, C. Lin, The construction and application of knowledge navigator model (KNM(TM)): An evaluation of knowledge management maturity, Expert Syst. Appl. 36 (2009) 4087-4100.
+[A107] M. Khaiata, I.A. Zualkernan, A Simple Instrument to Measure IT-Business Alignment Maturity, Inform. Syst. Manage. 26 (2009) 138-152.
+[A113] Y.H. Kwak, Calculating Project Management’s Return on Investment, Project Management Journal 31 (2000) 38-47.
+[A114] M. Lahti, ADeveloping a maturity model for Supply Chain Management, I.H.M. Shamsuzzoha, P. Helo, nternational Journal of Logistics Systems and Management 5 (2009) 654-678.
+[A120] C. S. Leem, B. W. Kim, E. J. Yu, M. Ho Paek, Information technology maturity stages and enterprise benchmarking: an empirical study, Ind. Manage. Data Syst. 108 (2008) 1200-1218.
+[A126] A. Lockamy III, K. McCormack, The development of a supply chain management process maturity model using the concepts of business process orientation, Supply Chain Manag. 4 (2004) 272-278.
+[A130] B.H. MacGillivray, S.J.T. Pollard. What can water utilities do to improve risk management within their business functions? An improved tool and application of process benchmarking, Environ. Int. 34 (2008) 1120-1131.
+[A134] A.M. Magdaleno, R.M. de Araujo, M.R. da Silva Borges, A maturity model to promote collaboration in business processes, Int. J. Business Process Integration and Management 4 (2009) 111-123.
+[A136] A.M. Maier, C.M. Eckert, P.J. Clarkson, Identifying requirements for communication support: A maturity grid-inspired approach, Expert Syst. Appl. 31 (2006) 663-672.
+[A148] M.H. Mortensen, P.V. Freytag, J.S. Arlbjorn, Attractiveness in supply chains: a process and matureness perspective. Int. J. Phys. Distrib. 38 (2006) 799-815.
+[A156] M. Niazi, D. Wilson, D. Zowghi, A maturity model for the implementation of software process improvement: an empirical study, J. Syst. Software 74 (2005) 155-172.
+[A155] M. Niazi, K. Cox, J. Verner, A measurement framework for assessing the maturity of requirements engineering process, Software Qual. J. 16 (2008) 213-235.
+[A157] P. Niemi, J. Huiskonen, H. Kärkkäinen, Understanding the knowledge accumulation process - Implications for the adoption of inventory management techniques, Int. J. Prod. Econ. 118 (2009) 160-167.
+[A158] D.J. Nightingale, J.H. Mize, Development of a Lean Enterprise Transformation Maturity Model, Information Knowledge Systems Management 3 (2002) 15-30.
+[A172] M.G.A. Plomp, R.S. Batenburg, Measuring chain digitisation maturity: an assessment of Dutch retail branches, Supply Chain Manag. 15 (2010) 227-237.
+[A178] N. Ramasubbu, M.S. Krishnan, P. Kompalli, Leveraging Global Resources: A Process Maturity Framework for Managing Distributed Development, IEEE Software 22 (2005) 80-86.
+[A182] R.G. Rendon, Procurement Process Maturity: Key to Performance Measurement, Journal of Public Procurement 8 (2008) 200-214.
+[A184] M. Rosemann, T. de Bruin, Towards a business process management maturity model, in: Proceedings of the Thirteenth European Conference on Information Systems (ECIS), 2005, pp. 521-532.
+[A186] S. Rudolph, H. Krcmar, Maturity Model for IT Service Catalogues An Approach to Assess the Quality of IT Service Documentation, in: AMCIS 2009 Proceedings, 2009, Paper 750.
+[A193] M. Sarshar, R. Haigh, D. Amaratunga, Improving project processes: best practice case study, Construction Innovation 4 (2004) 69-82.
+[A201] A. Simon, P. Schoeman, A.S. Sohal, Prioritised best practices in a ratified consulting services maturity model for ERP consulting, Journal of Enterprise Information Management 23 (2010) 100-124.
+[A207] J.E. Strutt, J.V. Sharp, E. Terry, R. Miles, Capability maturity models for offshore organisational management, Environ. Int. 32 (2006) 1094-1105.
+[A210] A. Sukhoo, A. Barnard, M.M. Eloff, J.A. van der Poll, An Evolutionary Software Project Management Maturity Model for Mauritius, Interdisciplinary Journal of Information, Knowledge & Management 2 (2007) 99-118.

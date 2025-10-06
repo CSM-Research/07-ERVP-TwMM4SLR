@@ -1,0 +1,37 @@
+======= Problem, goals and objectives ========
+
+--------------------
+What is the problem?
+--------------------
+
+The software engineering (SE) community has broadly adopted Systematic Literature Reviews (SLRs) as a technique to summarize evidence from primary studies and to support researchers in outlining the state of the art for a given research topic. The SE community has discussed the barriers to conducting and updating SLRs, its main threats to validity, as well as other inherent problems like the enormous time and effort involved. Some SLRs lack rigor, leading to quality problems. Some of the problems are unintentional, for instance, the bias induced by the lack of expertise and experience in the domain or even in the SLR conduct. Other problems are related to the lack of resources (time, stakeholders, or tools) that lead researchers to ignore certain activities, reducing SLR quality. A poor quality SLR often cannot be replicated or updated, leading researchers to conduct a new SLR.  
+
+Some hypothesis exists for the lack of SLR quality, for instance, they could be associated aspects like: 
+
+(i) lack of experience of researchers in SLRs or poor knowledge/experience sharing among teams; 
+(ii) lack of resources (mainly time and effort) to conduct a rigorous and comprehensive process; and 
+(iii) lack of good supporting tools which are often immature and could induce researchers to poorly handle and manage their results. 
+
+Due to these aspects, some SLRs are prone to omitting or poorly conducting essential activities, including those that could mitigate the threats to validity. It is not difficult to find SLR processes that are far from the ideal one proposed in the literature, and researchers often do not know which activities they should prioritize to improve their process and, consequently, improve their SLR quality.
+
+Despite Empirical standards and checklists being proposed to aid researchers in appraising their SLRs (e.g. QAISER, AMSTAR, SEGRESS, and threats mitigation, the diagnostic is still difficult and the pathway to evolve the process to make it more mature is still unclear. 
+
+The research question for this work is: Do we need a maturity model for SLR processes?
+
+--------------------
+What is the goal?
+--------------------
+
+Introduce a maturity model for SLR processes and the tradeoffs of building and adopting this model.
+
+We bootstrap a discussion on the need for a maturity model for the SLR processes and propose a research agenda with future directions. It seems that a maturity model could help researchers better comprehend their processes and what could be done to improve them i.e., mature them leading to higher-quality SLRs.
+
+
+--------------------
+What are the objectives?
+--------------------
+
+OBJ1: Identify the key practices that contribute to a more mature SLR process.
+OBJ2: Identify the dimensions of the SLR process.
+OBJ3: Determine which key practices are associated with each process dimension.
+OBJ4: Define the maturity levels and specify which practices correspond to each level.
